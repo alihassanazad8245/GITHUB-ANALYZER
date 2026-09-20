@@ -1,0 +1,9 @@
+# GitHub Analyzer - dependencies
+# Install with:  pip install -r requirements.txt
+
+requests>=2.31,<3.0        # GitHub REST API calls
+rich>=13.7,<16.0           # terminal rendering
+python-dotenv>=1.0,<2.0    # reads the GITHUB_TOKEN from a .env file
+
+# Optional - only needed for PNG chart export (--charts):
+# matplotlib>=3.7
