@@ -255,9 +255,6 @@ Check your remaining quota any time with menu option **4**.
 
 ## Screenshots
 
-> Save your images in `docs/screenshots/` using exactly these file names, and they
-> will appear automatically. Create the folder first: `mkdir -p docs/screenshots`
-
 ### Repository overview
 
 <!-- SCREENSHOT 2 — Run: python main.py --repo alihassanazad8245/SuperMarketManagementSystem
