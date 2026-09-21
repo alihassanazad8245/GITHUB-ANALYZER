@@ -463,8 +463,4 @@ Released under the MIT License. See [LICENSE](LICENSE).
 
 ---
 
-Built by [@alihassanazad8245](https://github.com/alihassanazad8245)
-
----
-
 Built by **Ali Hassan** — [GitHub](https://github.com/alihassanazad8245) · [Instagram](https://instagram.com/ali_hassan8245)
